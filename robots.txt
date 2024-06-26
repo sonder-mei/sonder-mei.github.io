@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sonder-mei.github.io/sitemap.xml
