@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <i class="far fa-head-side-brain" /> <i class="far fa-brain" /> <i class="far fa-chart-network" />
 
 profile:
   align: right
