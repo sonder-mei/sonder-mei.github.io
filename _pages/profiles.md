@@ -1,8 +1,8 @@
 ---
 layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+permalink: /projects/
+title: project
+description: A growing collection of cool projects.
 nav: true
 nav_order: 7
 
