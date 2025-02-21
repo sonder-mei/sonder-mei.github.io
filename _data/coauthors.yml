@@ -4,11 +4,12 @@
 
 "Bi":
   - firstname: ["Guo-Qiang"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+    url: https://zh.wikipedia.org/wiki/%E6%AF%95%E5%9B%BD%E5%BC%BA
 
 "Fang":
   - firstname: [Xu]
-
+    url: https://people.ucas.edu.cn/~x
+    
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
