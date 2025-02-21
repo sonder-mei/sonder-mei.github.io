@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Selected Publications. co-first authors; co-corresponding authors. 
+description:  Main publications and Contributed publications of Xu Laboratory,  hope for more and better jobs.
 nav: true
 nav_order: 2
 ---
