@@ -5,7 +5,7 @@ permalink: /teams/
 description: members of the lab
 nav: true
 nav_order: 3
-display_categories: [Research Assistants, Students]
+display_categories: [PI, Research Assistants, Students, Alumni]
 horizontal: false
 ---
 
