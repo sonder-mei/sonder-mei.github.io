@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Team
-permalink: /teams/
-description: members of the lab
+title: projects
+permalink: /projects/
+description: scientific projects we are participating in.
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [PI, Research Assistants, Students, Alumni]
 horizontal: false
 ---

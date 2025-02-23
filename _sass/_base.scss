@@ -23,6 +23,10 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+article > h2 {
+  margin-top: 4rem;
+}
+
 table {
   td,
   th {
@@ -171,7 +175,7 @@ ul.task-list input[type="checkbox"] {
 
   .card-img {
     width: 100%;
-    padding-top: 1.25rem;
+    // padding-top: 1.25rem;
   }
 
   .card-title {
@@ -732,7 +736,7 @@ footer.sticky-bottom {
         }
 
         > em {
-          border-bottom: 1px solid;
+          // border-bottom: 1px solid;
           font-style: normal;
         }
 
@@ -858,6 +862,20 @@ code {
   border-radius: 3px;
   padding: 3px 3px;
 }
+
+// Team
+
+.team {
+  .card-body {
+    a:first-of-type {
+      text-decoration: none;
+    }
+   padding: 13.5px;  
+  }
+}
+
+
+
 
 // Transitioning Themes
 html.transition,

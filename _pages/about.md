@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lab of Mesoscale Connectome Mapping
+subtitle: lab of structural neuroscience
 
 profile:
   align: right

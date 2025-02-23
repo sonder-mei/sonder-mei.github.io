@@ -2,9 +2,9 @@
 layout: page
 permalink: /publications/
 title: publications
-description:  Main publications and Contributed publications of Xu Laboratory,  hope for more and better jobs.
+description:  X for exploring the unknown.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- _pages/publications.md -->
@@ -13,21 +13,16 @@ nav_order: 2
 
 <!-- {% include bib_search.liquid %} -->
 
-<br />
-<h2> Main publications </h2>
+<h2> main publications </h2>
+#: first authors; *: corresponding authors.
 
 <div class="publications">
 
 {% bibliography --group_by year --query @*[category=Main] %}
 
-<br />
-<h2> Contributed publications </h2>
+<h2> contributed publications </h2>
 
 {% bibliography --group_by year --query @*[category=Contributed] %}
 
-<br />
-<h2> Template publications </h2>
-
-{% bibliography --group_by none --query @*[category=Template] %}
 
 </div>
