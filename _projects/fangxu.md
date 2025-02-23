@@ -51,7 +51,7 @@ related_publications: false
             <p>自2019年以来任职于中国科学院深圳先进技术研究院脑信息中心的副研究员。</p>
         </div>
         <div class="image-section">
-            <img src="../../assets/img/XFb.jpg">
+            <img src="{{ '/assets/img/XFb.jpg' | relative_url }}">
             <div class="email-info">
                 <span class="email-icon">&#9993;</span>
                 <a href="mailto:fang.xu@siat.ac.cn">fang.xu@siat.ac.cn</a>

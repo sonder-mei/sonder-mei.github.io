@@ -200,7 +200,7 @@ collections:
     permalink: /:collection/:title/
   members:
     output: true
-    permalink: /members/:path/
+    permalink: /members/:path
 
 announcements:
   enabled: true
