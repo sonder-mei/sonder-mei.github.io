@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sonder-mei.github.io/sitemap.xml
+Sitemap: https://xufunlab.cn/sitemap.xml
