@@ -14,7 +14,7 @@ nav_order: 3
 <!-- {% include bib_search.liquid %} -->
 
 <h2> main publications </h2>
-#: first authors; *: corresponding authors.
+#: first author; *: corresponding author.
 
 <div class="publications">
 
